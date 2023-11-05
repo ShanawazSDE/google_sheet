@@ -32,7 +32,7 @@ let defaultProps = {
     isBold:false,
     isItalic:false,
     isUnderlined:false,
-    value:"";
+    value:""
 
 };
 
